@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\bin\Debug\Lab Sheet 4.exe.config
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\bin\Debug\Lab Sheet 4.exe
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\bin\Debug\Lab Sheet 4.pdb
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\obj\Debug\Lab Sheet 4.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\obj\Debug\Lab Sheet 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\obj\Debug\Lab Sheet 4.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\obj\Debug\Lab Sheet 4.exe
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\C# Lab\Lab Sheet 4\obj\Debug\Lab Sheet 4.pdb
